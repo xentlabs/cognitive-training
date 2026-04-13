@@ -1,0 +1,10 @@
+[project]
+name = "cognitive-training-simulation"
+version = "0.1.0"
+description = "Simulation of Cognitive Training from the corresponding paper."
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "matplotlib==3.10.8",
+    "numpy==2.4.4",
+    "torch==2.11.0",
+]
